@@ -1,0 +1,41 @@
+.container {
+  padding-top: 50px;
+  max-width: 800px;
+}
+
+.row {
+  padding-top: 60px;
+}
+
+h1 {
+  right: 0;
+}
+
+.card {
+  padding: 10px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.units {
+  position: relative;
+  top: -34px;
+  font-size: 25px;
+}
+
+.weather-icon {
+  display: inline;
+}
